@@ -8,3 +8,5 @@ It is a great feeling when code works the first time, but sometimes it doesn’t
 During this workshop, students will start with logic building and write an algorithm using visual blocks before they advance to more serious text coding. They will be given a bug-ridden algorithm in Scratch and we will guide through the process of debugging in which the student will use logical reasoning to detect and correct the errors.
 
 All the worksheets required for debugging activity will be available to download shortly after the conclusion of the session. Students are encouraged to write their own code with intentional bugs and can challenge their friends to debug it. They will also be given resources with useful debugging tips and strategies.
+
+ ![alt tag](https://github.com/divyapola9/ywit_2020_debugging_workshop/images/Picture1.png) 
