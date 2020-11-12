@@ -9,4 +9,4 @@ During this workshop, students will start with logic building and write an algor
 
 All the worksheets required for debugging activity will be available to download shortly after the conclusion of the session. Students are encouraged to write their own code with intentional bugs and can challenge their friends to debug it. They will also be given resources with useful debugging tips and strategies.
 
- ![alt tag|100x50](https://github.com/divyapola9/ywit_2020_debugging_workshop/blob/main/Images/Picture1.png) 
+ ![alt tag|300x500](https://github.com/divyapola9/ywit_2020_debugging_workshop/blob/main/Images/Picture1.png) 
